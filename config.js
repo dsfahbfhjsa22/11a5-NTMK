@@ -6,11 +6,11 @@ const CONFIG = {
     desc: 'thật lòng nhó  ',
     btnYes: 'có',
     btnNo: 'không',
-    question:'cậu có ước mơ gì không kể cho chúng tớ nhé ',
+    question:'chúng tớ đã bao giờ làm các cậu buồn chưa :(((( ',
     btnReply: 'gửi nè 🤭🤭',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'giấc mơ thật tuyệt vời, lấp lánh như một ngôi sao vậy! Cố lên nhé chúng tớ tin chắc cậu sẽ làm được 😎😊👐',
-    messDesc: 'Mùng 8/3 chúc cậu luôn vui vẻ',
+    reply: 'không nhaaaa !các bạn nam 11a5 tuyệt vời lắm 😘 ',
+    mess: 'chúng tớ biết mà, haizzz tiếc thật 😞 nếu gặp cậu sớm hơn thì bài văn tả thiên thần của tớ sẽ không phải giấy trắng 🤭',
+    messDesc: 'Mùng 8/3 chúc cậu luôn vui vẻ, mạnh khỏe, chúng tớ sẽ mãi bên cậu 😍😍😍',
     btnAccept: 'tớ cảm động rớt nước mắt đó, cảm ơn nhaaa <33333',
     messLink: 'http://fb.com'
 }
